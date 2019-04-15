@@ -1,0 +1,4 @@
+2019-03-10 12:45:40,473 tmp.py 19 <module> INFO 信息级别日志
+2019-03-10 12:45:40,474 tmp.py 20 <module> WARNING 警告级别日志
+2019-03-10 12:45:40,474 tmp.py 21 <module> ERROR 错误级别日志
+2019-03-10 12:45:40,474 tmp.py 22 <module> CRITICAL 严重错误级别日志

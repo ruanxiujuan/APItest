@@ -1,0 +1,55 @@
+2019-03-10 12:01:25,774 db.py 27 is_card_exist DEBUG 查询卡号000000是否存在
+2019-03-10 12:04:17,551 db.py 27 is_card_exist DEBUG 查询卡号000000是否存在
+2019-03-10 12:04:40,393 db.py 27 is_card_exist DEBUG 查询卡号000000是否存在
+2019-03-10 12:04:55,354 Image.py 417 init DEBUG Importing BlpImagePlugin
+2019-03-10 12:04:55,366 Image.py 417 init DEBUG Importing BmpImagePlugin
+2019-03-10 12:04:55,377 Image.py 417 init DEBUG Importing BufrStubImagePlugin
+2019-03-10 12:04:55,382 Image.py 417 init DEBUG Importing CurImagePlugin
+2019-03-10 12:04:55,383 Image.py 417 init DEBUG Importing DcxImagePlugin
+2019-03-10 12:04:55,389 Image.py 417 init DEBUG Importing DdsImagePlugin
+2019-03-10 12:04:55,391 Image.py 417 init DEBUG Importing EpsImagePlugin
+2019-03-10 12:04:55,513 Image.py 417 init DEBUG Importing FitsStubImagePlugin
+2019-03-10 12:04:55,514 Image.py 417 init DEBUG Importing FliImagePlugin
+2019-03-10 12:04:55,516 Image.py 417 init DEBUG Importing FpxImagePlugin
+2019-03-10 12:04:55,521 Image.py 420 init DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2019-03-10 12:04:55,521 Image.py 417 init DEBUG Importing FtexImagePlugin
+2019-03-10 12:04:55,523 Image.py 417 init DEBUG Importing GbrImagePlugin
+2019-03-10 12:04:55,525 Image.py 417 init DEBUG Importing GifImagePlugin
+2019-03-10 12:04:55,529 Image.py 417 init DEBUG Importing GribStubImagePlugin
+2019-03-10 12:04:55,531 Image.py 417 init DEBUG Importing Hdf5StubImagePlugin
+2019-03-10 12:04:55,532 Image.py 417 init DEBUG Importing IcnsImagePlugin
+2019-03-10 12:04:55,536 Image.py 417 init DEBUG Importing IcoImagePlugin
+2019-03-10 12:04:55,538 Image.py 417 init DEBUG Importing ImImagePlugin
+2019-03-10 12:04:55,541 Image.py 417 init DEBUG Importing ImtImagePlugin
+2019-03-10 12:04:55,543 Image.py 417 init DEBUG Importing IptcImagePlugin
+2019-03-10 12:04:55,545 Image.py 417 init DEBUG Importing JpegImagePlugin
+2019-03-10 12:04:55,595 Image.py 417 init DEBUG Importing Jpeg2KImagePlugin
+2019-03-10 12:04:55,595 Image.py 417 init DEBUG Importing McIdasImagePlugin
+2019-03-10 12:04:55,597 Image.py 417 init DEBUG Importing MicImagePlugin
+2019-03-10 12:04:55,603 Image.py 420 init DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2019-03-10 12:04:55,603 Image.py 417 init DEBUG Importing MpegImagePlugin
+2019-03-10 12:04:55,605 Image.py 417 init DEBUG Importing MpoImagePlugin
+2019-03-10 12:04:55,606 Image.py 417 init DEBUG Importing MspImagePlugin
+2019-03-10 12:04:55,609 Image.py 417 init DEBUG Importing PalmImagePlugin
+2019-03-10 12:04:55,612 Image.py 417 init DEBUG Importing PcdImagePlugin
+2019-03-10 12:04:55,613 Image.py 417 init DEBUG Importing PcxImagePlugin
+2019-03-10 12:04:55,614 Image.py 417 init DEBUG Importing PdfImagePlugin
+2019-03-10 12:04:55,663 Image.py 417 init DEBUG Importing PixarImagePlugin
+2019-03-10 12:04:55,664 Image.py 417 init DEBUG Importing PngImagePlugin
+2019-03-10 12:04:55,665 Image.py 417 init DEBUG Importing PpmImagePlugin
+2019-03-10 12:04:55,667 Image.py 417 init DEBUG Importing PsdImagePlugin
+2019-03-10 12:04:55,669 Image.py 417 init DEBUG Importing SgiImagePlugin
+2019-03-10 12:04:55,670 Image.py 417 init DEBUG Importing SpiderImagePlugin
+2019-03-10 12:04:55,673 Image.py 417 init DEBUG Importing SunImagePlugin
+2019-03-10 12:04:55,680 Image.py 417 init DEBUG Importing TgaImagePlugin
+2019-03-10 12:04:55,683 Image.py 417 init DEBUG Importing TiffImagePlugin
+2019-03-10 12:04:55,684 Image.py 417 init DEBUG Importing WebPImagePlugin
+2019-03-10 12:04:55,689 Image.py 417 init DEBUG Importing WmfImagePlugin
+2019-03-10 12:04:55,691 Image.py 417 init DEBUG Importing XbmImagePlugin
+2019-03-10 12:04:55,700 Image.py 417 init DEBUG Importing XpmImagePlugin
+2019-03-10 12:04:55,704 Image.py 417 init DEBUG Importing XVThumbImagePlugin
+2019-03-10 12:05:34,379 db.py 27 is_card_exist DEBUG 查询卡号000000是否存在
+2019-03-10 12:07:19,903 db.py 28 is_card_exist DEBUG 查询卡: 112233445566 是否存在
+2019-03-10 12:07:19,903 db.py 13 query DEBUG 查询SQL: select cardNumber from cardinfo where cardNumber='112233445566'
+2019-03-10 12:07:19,921 db.py 16 query DEBUG 查询结果: (('112233445566',),)
+2019-03-10 12:07:19,922 db.py 32 is_card_exist DEBUG 该卡存在
