@@ -1,0 +1,25 @@
+一条完整的用例
+
+1. 环境(数据)检查或数据准备
+2. 执行测试
+3. 断言 响应断言/数据库断言
+4. 环境清理
+
+
+断言
+
+1. 相等
+assertEqual(a, b)/assertNotEqual(a, b)  a == b
+assertDictEqual(a,b)/...
+assertListEqual(a,b)
+assertTuple(a,b)
+
+全等(内存地址一样)
+assertIs(a,b)/assertIsNot(a,b)   a is b
+
+2. 包含
+assertIn(a,b)/assertNotIn(a,b)
+assertContains(a,b)/
+
+3. assertTrue(a)/assertFalse(a)
+4. assertIsNone(a)/assertIsNotNone(a)
